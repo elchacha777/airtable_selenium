@@ -1,0 +1,4 @@
+selenium
+undetected-chromedriver==2.1.1
+names
+webdriver-manager
